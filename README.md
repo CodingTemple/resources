@@ -24,7 +24,8 @@ In the short term we will utilize Google Drive as a host for the information sha
 
 When adding/creating content please follow the follow guidelines for directory structure:
 
-`/*
+```js
+/*
  * the content/ directory is organized like so:
  *
  * content/
@@ -47,7 +48,7 @@ When adding/creating content please follow the follow guidelines for directory s
  *
  * child: directory containing an arbitrary number of nodes
  */
- `
+```
 
 
 We are activily developing a main site for this project. Please star this repo to keep up-to-date on the build!
