@@ -11,14 +11,8 @@
 
 ## How to contribute to the Resource Library?
 
-In the short term we will utilize Google Drive as a host for the information shared and Sheets for aggregation. 
-
-- https://docs.google.com/spreadsheets/d/1vM0LfyoepIN52_m8wXiUsUJKbXZzi5EfuNNHRIJrNFU/edit?usp=sharing
-
 - Fork this github repository
 - Add your changes to the `/content` directory
-- Request Access to the Google Sheet
-- Add your Topic and github link to the Google Sheet
 - Send a pull request to the repository
 
 
