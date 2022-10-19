@@ -8,4 +8,4 @@ Installing Linux onto your computer is not necessarily an enormous commitment, b
 
 ## Installing Windows Subsystem for Linux on Windows 10 or 11
 
-!()[content/os/windows/wsl/assets/images/powershellAdmin.JPG]
+![](content/os/windows/wsl/assets/images/powershellAdmin.JPG)
