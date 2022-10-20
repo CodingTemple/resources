@@ -54,7 +54,7 @@ some other "Windows Feature" that WSL requries is not enabled. To enable it, sim
 features on or off' in your Windows search bar, click the icon that shows up in your Windows menu, and
 confirm that Virtual Machines and Windows Subsystem for Linux are both enabled.
 
-Cheers! If you made it this far, go buy yourself a coffee or something to celebrate!
+Cheers! If you made it this far, go buy yourself a coffee or something!
 
 _When your friends ask if you code in Windows or Linux_:
 
