@@ -57,7 +57,7 @@ for i in range(len(num_list)):
     if num_list[i+1] == 0:
         print(i)
 #  Output: 
-# 1
-# 4
-# 5
+- 1
+- 4
+- 5
 ```
