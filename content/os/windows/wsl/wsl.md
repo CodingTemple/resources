@@ -32,7 +32,7 @@ If this is your first time to open a "Command Line Interface", congratulations! 
 it looks. The first command you should enter here is "wsl". Type "wsl" into PowerShell (click on the app 
 if you have to do so to get it to accept your typing inputs) and when you're done, click the ENTER key. 
 What _should_ happen is that you get the menu that mentions several options. The option you want is
-wsl --install -d Ubuntu. Type that command in -- try not to have any typos if you can help it -- and hit
+```wsl --install -d Ubuntu```. Type that command in -- try not to have any typos if you can help it -- and hit
 ENTER. If you do commit a typographical error, just re-type the command in the same PowerShell window. No
 problem.
 
