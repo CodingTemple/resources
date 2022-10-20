@@ -7,8 +7,8 @@ However, the lion's share of computer users use Windows. If you are a software d
 Windows OS, you are likely to eventually run into limitations with the Command Line Interfaces (CLIs), 
 namely, Windows Command Prompt (cmd) and Windows PowerShell.
 
-Installing Linux onto your computer is not necessarily an enormous commitment, but it's not exactly 
-trivial, either. If you are interested in messing around with the functionality of UNIX's "Bash" CLI 
+Installing Linux onto your computer is not necessarily an enormous commitment, but [it's not exactly 
+trivial, either][1]. If you are interested in messing around with the functionality of UNIX's "Bash" CLI 
 without necessarily committing to a hard drive partition or total replacement of your Windows OS with 
 Linux, Windows Subsystem for Linux is a great option and is not difficult to install.
 
@@ -59,3 +59,5 @@ Cheers! If you made it this far, go buy yourself a coffee or something!
 _When your friends ask if you code in Windows or Linux_:
 
 <img src="https://media.tenor.com/OnxuN0Sm0l8AAAAd/aots4-eren-jacket.gif">
+
+[1]: https://medium.com/linuxforeveryone/how-to-install-ubuntu-20-04-and-dual-boot-alongside-windows-10-323a85271a73
