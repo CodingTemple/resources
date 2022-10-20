@@ -14,8 +14,6 @@ Linux, Windows Subsystem for Linux is a great option and is not difficult to ins
 
 ## Installing Windows Subsystem for Linux on Windows 10 or 11
 
-### Step 1
-
 The first step of our installation requires us to open Windows PowerShell _as an administrator_. 
 That's a fancy way of saying, "Windows won't let you install WSL unless you prove in Microsoftese that
 you know what you are doing." Part of why I bring this up is that you can royally screw up your
@@ -43,6 +41,13 @@ install, -d is a reference to a "distribution" or version of the Linux OS (kind 
 Windows 10, 11, and if you're a dinosaur like me, Windows XP or something ancient like that), and Ubuntu 
 is the name of the distribution that I recommend installing. (If you change your mind about what Linux 
 distribution you would like to use, it is fairly easy to change your installation later.)
+
+When this process is complete, you should be able to search "Ubuntu" in your Windows search bar. Clicking 
+the orange symbol for Ubunto should open a Terminal and allow you to run Linux commands. Your Ubuntu 
+Terminal should prompt you to choose a username for your Linux Virtual Machine (this is more or less what WSL 
+actually is). It will also ask you to write a password. Don't freak out when the password does not show up.
+One of Linux's trademark features is _not_ showing passwords as they are typed. Just make sure you know what 
+you actually typed, of course.
 
 Sometimes, the above process will run into errors. Usually that's because Windows Subsystem for Linux or 
 some other "Windows Feature" that WSL requries is not enabled. To enable it, simply search 'Turn Windows
