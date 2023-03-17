@@ -110,6 +110,7 @@ Finally let's add an attribute for our new class on top of what it has already i
 ### **Two examples in Python classes:**
 
 Here we're calling methods regardless of class type:
+
     class GasCar:
         def replenish(self):
             print('Filling fuel tank. . .')
@@ -119,6 +120,7 @@ Here we're calling methods regardless of class type:
         def replenish(self):
             print('Charging Battery. . .')
             print('Fully Charged, let\'s rock!' )
+            
     ford = GasCar()
     tess = ElectricCar()
     for x in (ford, tess):
